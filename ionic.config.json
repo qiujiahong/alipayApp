@@ -1,6 +1,6 @@
 {
   "name": "alipayApp",
-  "app_id": "d3edead8",
+  "app_id": "e1fd3668",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
